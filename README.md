@@ -24,9 +24,11 @@ Here's a simplified primer on basic Windows PGP setup and use, regardless of wha
 
 5. Add alias information -- your email and name
 
-6. Select to make a backup key (it will save as an .asc file)
+6. Create a password. This is VERY important to remember as you'll use it each time you encrypt or decrypt something
 
-7. Find where it stored your key. Save this somewhere safe.
+7. Select to make a backup key (it will save as an .asc file)
+
+8. Find where it stored your key. Save this somewhere safe.
 
 IMPORTING OTHER PEOPLE'S KEYS
 
