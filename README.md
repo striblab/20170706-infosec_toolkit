@@ -42,7 +42,7 @@ FINDING PUBLIC PGP KEYS
 
 Sometimes you want to contact someone who shares their PGP key online publicly but who hasn't sent it to you directly. To do this:
 
-1. Go to "Server > Retrieve keys..." to search for PGP keys by email, fingerprint or key ID. If you see someone has shared their fingerprint online, this is how you wold find it
+1. Go to "Server > Retrieve keys..." to search for PGP keys by email, fingerprint or key ID. If you see someone has shared their fingerprint online, this is how you would find it
 
 ENCRYPTING MESSAGES
 
